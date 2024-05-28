@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Thank You - Jarvis AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #FF9F1C;
+            opacity: 80%;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #FF9F1C;
+            opacity: 80%;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thank You - Jarvis AI</h1>
+        <img src="https://example.com/logo.png" alt="Jarvis Logo" style="max-width: 500px; display: block; margin: 0 auto 40px auto;">
+        <p>Dear [Customer Name],</p>
+        <p>We wanted to take a moment and express our sincere gratitude for your support and engagement with Jarvis AI. Whether you've made a purchase, provided valuable feedback, or simply showed interest in our products/services, we appreciate your involvement.</p>
+        <p>Your continued support means a lot to us, and it motivates us to keep improving and providing the best possible experience for our customers.</p>
+        <p>As a token of our appreciation, we'd like to offer you a special discount on your next purchase. Use the coupon code [Coupon Code] at checkout to redeem your discount.</p>
+        <p>Thank you again for being a valued part of our community. We look forward to continuing to serve you and exceeding your expectations.</p>
+        <p>Best regards,<br>Jarvis AI</p>
+        <a href="[Special Offer URL]" class="btn">Check Our Special Offer</a>
+    </div>
+</body>
+</html>
